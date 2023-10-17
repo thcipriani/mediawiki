@@ -1,4 +1,4 @@
-# MediaWiki
+# 🌻 MediaWiki
 
 MediaWiki is a free and open-source wiki software package written in PHP. It
 serves as the platform for Wikipedia and the other Wikimedia projects, used
